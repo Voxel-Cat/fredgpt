@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Home - FredGpt</title>
+  <link rel="icon" type="image/png" href="images/team4019.png">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --ocean: #00b4d8;
+      --deep: #0077b6;
+      --sand: #ffe8b6;
+      --palm: #2ec4b6;
+      --sun: #ffd166;
+      --dark: #023047;
+    }
+
+    body {
+  
+</body>
+</html>
